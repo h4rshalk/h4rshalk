@@ -15,8 +15,7 @@
 - 💼 Actively looking for **Data Scientist** and **Data Analyst** opportunities
 - 🔭 Featured projects: **Stress Detection System** and **IPL Player Performance Predictor**
 - 💬 Ask me about **Python, Machine Learning, Computer Vision, Data Analysis**
-- 📫 Reach me at **[your email here]**
-- ⚡ Fun fact: I rebuilt a purchased college project completely from scratch and made it production ready!
+- 📫 Reach me at **[harshalkawane3@gmail.com]**
 
 ---
 
