@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.E. Computer Engineering** graduate — Savitribai Phule Pune University (2024)
+- 🎓 **B.E. Computer Engineering** graduate — Savitribai Phule Pune University (2025)
 - 📜 **Certified in Data Science & AI** — SevenMentors Institute, Pune
 - 🏏 Built **AuctionIQ** — an IPL player valuation platform analyzing 287,513 ball-by-ball records across 19 seasons
 - 💳 Built **Smart Expense Intelligence Dashboard** — end-to-end ETL + SQL + Prophet forecasting on 50,000+ transactions
